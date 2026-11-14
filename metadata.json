@@ -1,0 +1,6 @@
+{
+  "name": "Junior Astronaut",
+  "description": "Interactive educational space mission trainer for young students with 4 hands-on space science missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

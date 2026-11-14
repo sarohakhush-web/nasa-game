@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Junior Astronaut</string>
+    <string name="game_full_title">Junior Astronaut Mission Trainer</string>
+    <string name="game_subtitle">Explore. Train. Complete.</string>
+    <string name="cta_start_mission">Start Mission</string>
+    <string name="cta_how_to_play">How to Play</string>
+    <string name="cta_profile">Astronaut Profile</string>
+    <string name="about_title">About the Game</string>
+    <string name="about_body">Junior Astronaut Mission Trainer is a hands-on space science simulator built for curious students. Plan a lunar habitat, steer a planetary rover past craters, test orbital speeds around Earth, and balance spacecraft life support systems.</string>
+    <string name="sources_title">Educational Space Sources</string>
+    <string name="disclaimer_nasa">Independent educational simulator. Not affiliated with or officially endorsed by NASA.</string>
+</resources>
